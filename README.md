@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan.</h3>
 
-<img align="right" width="400px" alt="coding" src="![image](https://github.com/user-attachments/assets/1c3d2f33-9058-43f4-883c-a3cad68bfa19)"/>
+<img align="right" width="400px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama1190" alt="usama1190" /></a> </p>
 
 - 🔭 I’m currently working on [React.js](https://github.com/Usama1190/react-class.git)
 
