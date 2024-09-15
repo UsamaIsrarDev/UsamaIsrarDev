@@ -5,6 +5,7 @@
 
 <img align="right" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" /> </p>
 
 
 - 🔭 I’m currently working on [React.js](https://github.com/Usama1190/react-class.git)
