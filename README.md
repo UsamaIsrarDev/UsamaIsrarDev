@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan.</h3>
 
-<img align="right" width="400px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
+<img align="right" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
 
 
