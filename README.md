@@ -1,4 +1,3 @@
-![logo](https://github.com/Usama1190/Usama1190/blob/main/logo.png)
 
 <h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan.</h3>
