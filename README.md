@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Next13.js](next13-blog-pink.vercel.app)
+- 👯 I’m looking to collaborate on [Next14.js](next13-blog-pink.vercel.app)
 
 - 🤝 I’m looking for help with [next-tailwind-tweet](next-tailwind-tweet-tau.vercel.app)
 
