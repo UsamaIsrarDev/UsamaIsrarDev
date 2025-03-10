@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
-</div>
-
 ### Hi there, I'm [Usama Israr Khan](https://github.com/Usama1190) 👋
 
 #### 🚀 A Passionate Full-Stack Developer from Pakistan
