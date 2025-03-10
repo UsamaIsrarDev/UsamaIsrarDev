@@ -17,13 +17,7 @@
 
 ### 🌍 Let's Connect
 
-<p align="center">
-    <a href="https://usamaisrar1190-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
-    <a href="mailto:usamaisrar1190@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00AFFF" alt="Email"></a>
-    <a href="https://linkedin.com/in/usama-israr-khan"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
-    <a href="https://twitter.com/usama-israr-khan"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00F0FF" alt="Twitter"></a>
-    <a href="https://t.me/UsamaIsrarKhan"><img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00AFFF" alt="Telegram"></a>
-</p>
+<div align="center"> <a href="https://usamaisrar1190-portfolio-website.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Portfolio"> </a> <a href="mailto:usamaisrar1190@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5733" alt="Email"> </a> <a href="https://www.linkedin.com/in/usama-israr-khan" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"> </a> <a href="https://twitter.com/usama-israr-khan" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"> </a> <a href="https://t.me/UsamaIsrarKhan" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"> </a> </div>
 
 ---
 
