@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌍 Let's Connect:</h3>
 
 <div align="center">
     <a href="https://usamaisrar1190-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
