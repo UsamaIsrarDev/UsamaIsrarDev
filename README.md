@@ -1,17 +1,30 @@
-### Hi there, I'm [Usama Israr Khan](https://github.com/Usama1190) 👋
+<h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
+<h3 align="center">A passionate Full-Stack developer from Pakistan.</h3>
 
-#### 🚀 A Passionate Full-Stack Developer from Pakistan
+<img align="right" border-radius="50%" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
-<img align="right" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8" width="300px" alt="Coding" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" /> </p>
 
-- 🔭 I’m currently working on **[React.js](https://github.com/Usama1190/react-class.git)**
+
+- 🔭 I’m currently working on [React.js](https://github.com/Usama1190/react-class.git)
+
 - 🌱 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on **[Next.js 14](https://next13-blog-pink.vercel.app)**
-- 🤝 I’m looking for help with **[Next-Tailwind-Tweet](https://next-tailwind-tweet-tau.vercel.app)**
-- 👨‍💻 Check out my portfolio: **[Portfolio Website](https://usamaisrar1190-portfolio-website.netlify.app)**
-- 💬 Ask me about **Node.js, Next.js, React.js, TypeScript, JavaScript, and ECMAScript**
-- 📫 How to reach me: **usamaisrar1190@gmail.com**
-- ⚡ Fun fact: *I think I am funny!*
+
+- 👯 I’m looking to collaborate on [Next14.js](next13-blog-pink.vercel.app)
+
+- 🤝 I’m looking for help with [next-tailwind-tweet](next-tailwind-tweet-tau.vercel.app)
+
+- 👨‍💻 All of my projects are available at [https://usamaisrar1190-portfolio-website.netlify.app](https://usamaisrar1190-portfolio-website.netlify.app)
+
+- 📝 I regularly write articles on [Web Development](Web Development)
+
+- 💬 Ask me about **Nodejs, Next.js, React.js, TypeScript, JavaScript and ECMAScript.**
+
+- 📫 How to reach me **usamaisrar1190@gmail.com**
+
+- 📄 Know about my experiences [https://usamaisrar1190-portfolio-website.netlify.app](https://usamaisrar1190-portfolio-website.netlify.app)
+
+- ⚡ Fun fact **I think I am funny**
 
 ---
 
