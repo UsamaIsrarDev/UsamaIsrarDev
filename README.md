@@ -49,11 +49,11 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama1190&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usama1190&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usama1190&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama1190&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
