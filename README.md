@@ -28,20 +28,13 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/usama israr khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usama israr khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usama israr khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usama israr khan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/usama israr khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="usama israr khan" height="30" width="40" /></a>
-<a href="https://fb.com/usama israr khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usama israr khan" height="30" width="40" /></a>
-<a href="https://instagram.com/usama israr khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usama israr khan" height="30" width="40" /></a>
-</p>
 
 <div align="center">
-    <a href="https://asharib.xyz"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
-    <a href="mailto:asharibali@proton.me"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
-    <a href="https://linkedin.com/in/asharibali"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
-    <a href="https://twitter.com/0xAsharib"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF" alt="Twitter"></a>
-    <a href="https://t.me/AsharibAli"><img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00AFFF" alt="Telegram"></a>
+    <a href="https://usamaisrar1190-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
+    <a href="mailto:usamaisrar1190@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
+    <a href="https://linkedin.com/in/usama israr khan"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
+    <a href="https://twitter.com/usama israr khan"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF" alt="Twitter"></a>
+    <a href="https://t.me/UsamaIsrarKhan"><img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00AFFF" alt="Telegram"></a>
 </div>
 
 
