@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" /> </p>
 
-- 🔭 I’m currently working on [React.js](https://github.com/Usama1190/react-class.git)
+- 🔭 I’m currently working on [React + vite](https://github.com/Usama1190/react-class.git) & [Next.js](https://github.com/Usama1190/learn-nextjs.git)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning [Python](https://github.com/Usama1190/learn-modern-python.git)
 
 - 💬 Ask me about **Nodejs, Next.js, React.js, TypeScript, JavaScript and ECMAScript.**
 
