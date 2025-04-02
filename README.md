@@ -5,18 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" /> </p>
 
-
 - 🔭 I’m currently working on [React.js](https://github.com/Usama1190/react-class.git)
 
 - 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on [Next14.js](next13-blog-pink.vercel.app)
-
-- 🤝 I’m looking for help with [next-tailwind-tweet](next-tailwind-tweet-tau.vercel.app)
-
-- 👨‍💻 All of my projects are available at [https://usamaisrar1190-portfolio-website.netlify.app](https://usamaisrar1190-portfolio-website.netlify.app)
-
-- 📝 I regularly write articles on [Web Development](Web Development)
 
 - 💬 Ask me about **Nodejs, Next.js, React.js, TypeScript, JavaScript and ECMAScript.**
 
