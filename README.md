@@ -34,7 +34,7 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 ---
 
 ## 🧩 Projects
-
+<div style="display: flex; align-item:space-evenly; flex-wrap:wrap;">
 ### 🔥 Latest Projects
 - 📌 **Python Projects:**  
   - [Weather App](#)  
@@ -51,7 +51,7 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
   - [Landing Page](#)  
   - [Interactive Form](#)  
   - [Vanilla JS Todo App](#)
-
+</div>
 ---
 
 ## 🗣️ Talk To Me About
@@ -106,7 +106,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 ---
 
 ## 📊 GitHub Stats
-
+<div style="display: flex; align-item:space-evenly; flex-wrap:wrap;">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usama1190&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -118,7 +118,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama1190&theme=radical" alt="GitHub Streak" />
 </p>
-
+</div>
 ---
 
 ## 🎯 Profile Views
