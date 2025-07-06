@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
-<h3 align="center">A dedicated 🤖 Software Engineer @UBIT | Building Modern Web & AI Solutions from Pakistan.</h3>
+<h3 align="center">A dedicated 🤖 Software Engineer @UBIT & Building Modern Web & AI Solutions from Pakistan.</h3>
 
-<img align="right" border-radius="50%" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
+<img align="right" style="border-radius: 50%;" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" />
@@ -35,26 +35,40 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-<strong>🔥 Latest Projects</strong><br><br>
-📌 <strong>Python Weather App</strong><br>
-➜ <a href="#">View Repo</a><br><br>
+<div align="center">
 
-📌 <strong>Data Scraper</strong><br>
-➜ <a href="#">View Repo</a><br><br>
+  <div style="display: inline-block; vertical-align: top; width: 45%; margin-right: 4%;">
 
-📌 <strong>Sentiment Analyzer</strong><br>
-➜ <a href="#">View Repo</a><br>
+    <h3>🔥 Latest Projects</h3>
 
-<strong>💻 Previous Projects</strong><br><br>
-📌 <strong>Next.js / React</strong><br>
-➜ <a href="#">Portfolio Website</a><br>
-➜ <a href="#">Food Delivery Template</a><br>
-➜ <a href="#">Quiz App</a><br><br>
+    📌 <strong>Python Weather App</strong><br>
+    ➜ <a href="#">View Repo</a><br><br>
 
-📌 <strong>Core HTML/CSS/JS</strong><br>
-➜ <a href="#">Landing Page</a><br>
-➜ <a href="#">Interactive Form</a><br>
-➜ <a href="#">Vanilla JS Todo App</a><br>
+    📌 <strong>Data Scraper</strong><br>
+    ➜ <a href="#">View Repo</a><br><br>
+
+    📌 <strong>Sentiment Analyzer</strong><br>
+    ➜ <a href="#">View Repo</a><br>
+
+  </div>
+
+  <div style="display: inline-block; vertical-align: top; width: 45%;">
+
+    <h3>💻 Previous Projects</h3>
+
+    📌 <strong>Next.js / React</strong><br>
+    ➜ <a href="#">Portfolio Website</a><br>
+    ➜ <a href="#">Food Delivery Template</a><br>
+    ➜ <a href="#">Quiz App</a><br><br>
+
+    📌 <strong>Core HTML/CSS/JS</strong><br>
+    ➜ <a href="#">Landing Page</a><br>
+    ➜ <a href="#">Interactive Form</a><br>
+    ➜ <a href="#">Vanilla JS Todo App</a><br>
+
+  </div>
+
+</div>
 
 ---
 
