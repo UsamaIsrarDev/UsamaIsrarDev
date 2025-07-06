@@ -38,27 +38,31 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🔥 Latest Projects</h3>
-      📌 **Python Weather App**  
-      ➜ [View Repo](#)  
-      <br>
-      📌 **Data Scraper**  
-      ➜ [View Repo](#)  
-      <br>
-      📌 **Sentiment Analyzer**  
-      ➜ [View Repo](#)
+
+      <strong>🔥 Latest Projects</strong><br><br>
+      📌 <strong>Python Weather App</strong><br>
+      ➜ [View Repo](#)<br><br>
+
+      📌 <strong>Data Scraper</strong><br>
+      ➜ [View Repo](#)<br><br>
+
+      📌 <strong>Sentiment Analyzer</strong><br>
+      ➜ [View Repo](#)<br>
+
     </td>
     <td valign="top" width="50%">
-      <h3>💻 Previous Projects</h3>
-      📌 **Next.js / React**  
-      ➜ [Portfolio Website](#)  
-      ➜ [Food Delivery Template](#)  
-      ➜ [Quiz App](#)  
-      <br><br>
-      📌 **Core HTML/CSS/JS**  
-      ➜ [Landing Page](#)  
-      ➜ [Interactive Form](#)  
-      ➜ [Vanilla JS Todo App](#)
+
+      <strong>💻 Previous Projects</strong><br><br>
+      📌 <strong>Next.js / React</strong><br>
+      ➜ [Portfolio Website](#)<br>
+      ➜ [Food Delivery Template](#)<br>
+      ➜ [Quiz App](#)<br><br>
+
+      📌 <strong>Core HTML/CSS/JS</strong><br>
+      ➜ [Landing Page](#)<br>
+      ➜ [Interactive Form](#)<br>
+      ➜ [Vanilla JS Todo App](#)<br>
+
     </td>
   </tr>
 </table>
