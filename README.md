@@ -35,40 +35,40 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-### 🔥 Latest Projects
+## 🧩 Projects
 
 <table>
   <tr>
-    <td align="center">
-      📌 <strong>Python Weather App</strong><br>
-      <a href="#">View Repo</a>
+    <td valign="top" width="50%">
+      
+      <h3>🔥 Latest Projects</h3>
+      
+      📌 **Python Weather App**  
+      ➜ [View Repo](#)  
+      
+      📌 **Data Scraper**  
+      ➜ [View Repo](#)  
+      
+      📌 **Sentiment Analyzer**  
+      ➜ [View Repo](#)
+      
     </td>
-    <td align="center">
-      📌 <strong>Data Scraper</strong><br>
-      <a href="#">View Repo</a>
-    </td>
-    <td align="center">
-      📌 <strong>Sentiment Analyzer</strong><br>
-      <a href="#">View Repo</a>
-    </td>
-  </tr>
-</table>
-
-### 💻 Previous Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Next.js / React</strong><br>
-      📌 <a href="#">Portfolio Website</a><br>
-      📌 <a href="#">Food Delivery Template</a><br>
-      📌 <a href="#">Quiz App</a>
-    </td>
-    <td align="center">
-      <strong>Core HTML/CSS/JS</strong><br>
-      📌 <a href="#">Landing Page</a><br>
-      📌 <a href="#">Interactive Form</a><br>
-      📌 <a href="#">Vanilla JS Todo App</a>
+    <td valign="top" width="50%">
+      
+      <h3>💻 Previous Projects</h3>
+      
+      📌 **Next.js / React**  
+      ➜ [Portfolio Website](#)  
+      ➜ [Food Delivery Template](#)  
+      ➜ [Quiz App](#)
+      
+      <br>
+      
+      📌 **Core HTML/CSS/JS**  
+      ➜ [Landing Page](#)  
+      ➜ [Interactive Form](#)  
+      ➜ [Vanilla JS Todo App](#)
+      
     </td>
   </tr>
 </table>
