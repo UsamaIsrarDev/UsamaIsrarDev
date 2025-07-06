@@ -31,7 +31,7 @@ I completed my **MERN Stack Development** journey at **Saylani Mass IT Training 
 
 I’m strengthening my skills further through **PIAIC** resources & **YouTube**, working on **Python**, **AI**, and modern development tools.
 
----
+
 
 ## 🧩 Projects
 
@@ -67,7 +67,7 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
   </tr>
 </table>
 
----
+
 
 ## 🗣️ Talk To Me About
 
