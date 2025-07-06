@@ -31,7 +31,7 @@ I completed my **MERN Stack Development** journey at **Saylani Mass IT Training 
 
 I’m strengthening my skills further through **PIAIC** resources & **YouTube**, working on **Python**, **AI**, and modern development tools.
 
-
+---
 
 ## 🧩 Projects
 
@@ -41,33 +41,33 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
       <strong>🔥 Latest Projects</strong><br><br>
       📌 <strong>Python Weather App</strong><br>
-      ➜ [View Repo](#)<br><br>
+      ➜ <a href="#">View Repo</a><br><br>
 
       📌 <strong>Data Scraper</strong><br>
-      ➜ [View Repo](#)<br><br>
+      ➜ <a href="#">View Repo</a><br><br>
 
       📌 <strong>Sentiment Analyzer</strong><br>
-      ➜ [View Repo](#)<br>
+      ➜ <a href="#">View Repo</a><br>
 
     </td>
     <td valign="top" width="50%">
 
       <strong>💻 Previous Projects</strong><br><br>
       📌 <strong>Next.js / React</strong><br>
-      ➜ [Portfolio Website](#)<br>
-      ➜ [Food Delivery Template](#)<br>
-      ➜ [Quiz App](#)<br><br>
+      ➜ <a href="#">Portfolio Website</a><br>
+      ➜ <a href="#">Food Delivery Template</a><br>
+      ➜ <a href="#">Quiz App</a><br><br>
 
       📌 <strong>Core HTML/CSS/JS</strong><br>
-      ➜ [Landing Page](#)<br>
-      ➜ [Interactive Form](#)<br>
-      ➜ [Vanilla JS Todo App](#)<br>
+      ➜ <a href="#">Landing Page</a><br>
+      ➜ <a href="#">Interactive Form</a><br>
+      ➜ <a href="#">Vanilla JS Todo App</a><br>
 
     </td>
   </tr>
 </table>
 
-
+---
 
 ## 🗣️ Talk To Me About
 
