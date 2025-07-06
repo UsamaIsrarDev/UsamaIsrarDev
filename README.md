@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
-<h3 align="center">A dedicated Software Engineer & Full-Stack Developer from Pakistan.</h3>
+<h3 align="center">A dedicated 🤖 Software Engineer @UBIT & Building Modern Web & AI Solutions from Pakistan.</h3>
 
 <img align="right" border-radius="50%" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
@@ -34,24 +34,45 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 ---
 
 ## 🧩 Projects
-<div style="display: flex; align-item:space-evenly; flex-wrap:wrap;">
+
 ### 🔥 Latest Projects
-- 📌 **Python Projects:**  
-  - [Weather App](#)  
-  - [Data Scraper](#)  
-  - [Sentiment Analyzer](#)
+
+<table>
+  <tr>
+    <td align="center">
+      📌 <strong>Python Weather App</strong><br>
+      <a href="#">View Repo</a>
+    </td>
+    <td align="center">
+      📌 <strong>Data Scraper</strong><br>
+      <a href="#">View Repo</a>
+    </td>
+    <td align="center">
+      📌 <strong>Sentiment Analyzer</strong><br>
+      <a href="#">View Repo</a>
+    </td>
+  </tr>
+</table>
 
 ### 💻 Previous Projects
-- 📌 **Next.js / React:**  
-  - [Portfolio Website](#)  
-  - [Food Delivery Template](#)  
-  - [Quiz App](#)
 
-- 📌 **Core HTML/CSS/JS:**  
-  - [Landing Page](#)  
-  - [Interactive Form](#)  
-  - [Vanilla JS Todo App](#)
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Next.js / React</strong><br>
+      📌 <a href="#">Portfolio Website</a><br>
+      📌 <a href="#">Food Delivery Template</a><br>
+      📌 <a href="#">Quiz App</a>
+    </td>
+    <td align="center">
+      <strong>Core HTML/CSS/JS</strong><br>
+      📌 <a href="#">Landing Page</a><br>
+      📌 <a href="#">Interactive Form</a><br>
+      📌 <a href="#">Vanilla JS Todo App</a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🗣️ Talk To Me About
@@ -106,19 +127,22 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; align-item:space-evenly; flex-wrap:wrap;">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usama1190&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usama1190&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=usama1190&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usama1190&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama1190&theme=radical" alt="GitHub Streak" />
 </p>
-</div>
+
 ---
 
 ## 🎯 Profile Views
