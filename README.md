@@ -35,40 +35,28 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-<div align="center">
+<h3>🔥 Latest Projects</h3>
 
-  <div style="display: inline-block; vertical-align: top; width: 45%; margin-right: 4%;">
+📌 <strong>Python Weather App</strong><br>
+➜ <a href="#">View Repo</a><br><br>
 
-    <h3>🔥 Latest Projects</h3>
+📌 <strong>Data Scraper</strong><br>
+➜ <a href="#">View Repo</a><br><br>
 
-    📌 <strong>Python Weather App</strong><br>
-    ➜ <a href="#">View Repo</a><br><br>
+📌 <strong>Sentiment Analyzer</strong><br>
+➜ <a href="#">View Repo</a><br>
 
-    📌 <strong>Data Scraper</strong><br>
-    ➜ <a href="#">View Repo</a><br><br>
+<h3>💻 Previous Projects</h3>
 
-    📌 <strong>Sentiment Analyzer</strong><br>
-    ➜ <a href="#">View Repo</a><br>
+📌 <strong>Next.js / React</strong><br>
+➜ <a href="#">Portfolio Website</a><br>
+➜ <a href="#">Food Delivery Template</a><br>
+➜ <a href="#">Quiz App</a><br><br>
 
-  </div>
-
-  <div style="display: inline-block; vertical-align: top; width: 45%;">
-
-    <h3>💻 Previous Projects</h3>
-
-    📌 <strong>Next.js / React</strong><br>
-    ➜ <a href="#">Portfolio Website</a><br>
-    ➜ <a href="#">Food Delivery Template</a><br>
-    ➜ <a href="#">Quiz App</a><br><br>
-
-    📌 <strong>Core HTML/CSS/JS</strong><br>
-    ➜ <a href="#">Landing Page</a><br>
-    ➜ <a href="#">Interactive Form</a><br>
-    ➜ <a href="#">Vanilla JS Todo App</a><br>
-
-  </div>
-
-</div>
+📌 <strong>Core HTML/CSS/JS</strong><br>
+➜ <a href="#">Landing Page</a><br>
+➜ <a href="#">Interactive Form</a><br>
+➜ <a href="#">Vanilla JS Todo App</a><br>
 
 ---
 
