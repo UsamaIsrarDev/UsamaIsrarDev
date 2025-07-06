@@ -35,28 +35,22 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-<h3>🔥 Latest Projects</h3>
+### 🔥 Latest Projects
+- 📌 **Python Projects:**  
+  - [Weather App](#)  
+  - [Data Scraper](#)  
+  - [Sentiment Analyzer](#)
 
-📌 <strong>Python Weather App</strong>
-➜ <a href="#">View Repo</a><br><br>
+### 💻 Previous Projects
+- 📌 **Next.js / React:**  
+  - [Portfolio Website](#)  
+  - [Food Delivery Template](#)  
+  - [Quiz App](#)
 
-📌 <strong>Data Scraper</strong>
-➜ <a href="#">View Repo</a><br><br>
-
-📌 <strong>Sentiment Analyzer</strong>
-➜ <a href="#">View Repo</a><br>
-
-<h3>💻 Previous Projects</h3>
-
-📌 <strong>Next.js / React</strong>
-➜ <a href="#">Portfolio Website</a><br>
-➜ <a href="#">Food Delivery Template</a><br>
-➜ <a href="#">Quiz App</a><br><br>
-
-📌 <strong>Core HTML/CSS/JS</strong><br>
-➜ <a href="#">Landing Page</a><br>
-➜ <a href="#">Interactive Form</a><br>
-➜ <a href="#">Vanilla JS Todo App</a><br>
+- 📌 **Core HTML/CSS/JS:**  
+  - [Landing Page](#)  
+  - [Interactive Form](#)  
+  - [Vanilla JS Todo App](#)
 
 ---
 
