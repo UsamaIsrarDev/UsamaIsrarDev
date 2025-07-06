@@ -9,33 +9,60 @@
 
 ---
 
-## 📚 1️⃣ My Software Engineering Journey (UBIT)
+## 📚 My Software Engineering Journey (UBIT)
 
-I’m currently pursuing my **Bachelor’s in Software Engineering** at **UBIT — University of Karachi**. I’m in my **8th and final semester**, where I’m applying my knowledge through real-world projects and advanced modules to strengthen my skills for the industry.
-
----
-
-## 🚀 2️⃣ Governor’s Initiative — Emerging Tech Skills
-
-I’m actively enrolled in the **Governor Sindh’s IT Initiative**, where I have completed **TypeScript**, **Next.js**, and **Python** modules and have now moved on to **Generative AI**. This program is helping me learn **Web 3.0**, **Blockchain**, **Metaverse**, and other emerging technologies to stay ahead in the modern tech landscape.
+I’m currently pursuing my **Bachelor’s in Software Engineering** at **UBIT — University of Karachi**, now in my **8th and final semester**. I’m applying my skills through real-world projects and advanced modules to get industry-ready.
 
 ---
 
-## 💻 3️⃣ SMIT — MERN Stack Developer
+## 🚀 Governor’s Initiative — Emerging Tech Skills
 
-I completed my **MERN Stack Development** journey at **Saylani Mass IT Training (SMIT)** in **January 2025**. Here, I mastered **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**, building multiple portfolio projects to showcase my practical skills in full-stack development.
-
----
-
-## 🎥 4️⃣ PIAIC — Self-Learning with YouTube
-
-I am further strengthening my skills through the **Presidential Initiative for Artificial Intelligence & Computing (PIAIC)** by following courses and tutorials via **YouTube**. This self-learning keeps me updated on **AI**, **modern development tools**, and **real-world applications**.
+Actively enrolled in the **Governor Sindh’s IT Initiative**, I have completed **TypeScript**, **Next.js**, and **Python** modules and now moved on to **Generative AI**. I’m exploring **Web 3.0**, **Blockchain**, **Metaverse**, and other emerging technologies to stay ahead.
 
 ---
 
-## 🎯 5️⃣ Conclusion & Future Plans
+## 💻 SMIT — MERN Stack Developer
 
-As a passionate **Software Engineer**, I am committed to combining my academic knowledge with emerging tech to build impactful solutions for businesses and communities. I aim to contribute to projects in **AI**, **Blockchain**, **Generative AI**, and **modern web development**, while continuing to learn and grow every day.
+I completed my **MERN Stack Development** journey at **Saylani Mass IT Training (SMIT)** in **January 2025** — mastering **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**, building portfolio projects and modern web apps.
+
+---
+
+## 🎥 PIAIC — Self-Learning with YouTube
+
+I’m strengthening my skills further through **PIAIC** resources & **YouTube**, working on **Python**, **AI**, and modern development tools.
+
+---
+
+## 🧩 Projects
+
+### 🔥 Latest Projects
+- 📌 **Python Projects:**  
+  - [Weather App](#)  
+  - [Data Scraper](#)  
+  - [Sentiment Analyzer](#)
+
+### 💻 Previous Projects
+- 📌 **Next.js / React:**  
+  - [Portfolio Website](#)  
+  - [Food Delivery Template](#)  
+  - [Quiz App](#)
+
+- 📌 **Core HTML/CSS/JS:**  
+  - [Landing Page](#)  
+  - [Interactive Form](#)  
+  - [Vanilla JS Todo App](#)
+
+---
+
+## 🗣️ Talk To Me About
+
+💬 I love working with: **HTML5**, **CSS3**, **Bootstrap**, **JavaScript (ES6+)**, **TypeScript**, **React.js**, **Next.js**, **Angular**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **Python**, **Tailwind CSS**, **Generative AI**, **Web 3.0**, **Blockchain**, **Metaverse**, and **modern APIs**.
+
+---
+
+## 🎯 Future Plans
+
+As a passionate **Software Engineer**, I combine academic knowledge with real-world projects to build scalable, user-centric solutions for businesses. My goal is to create impactful products in **AI**, **Blockchain**, **Generative AI**, and **modern web development**, while learning and growing every day.
 
 ---
 
@@ -68,6 +95,7 @@ As a passionate **Software Engineer**, I am committed to combining my academic k
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
