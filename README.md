@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
-<h3 align="center">A dedicated 🤖 Software Engineer @UBIT & Building Modern Web & AI Solutions from Pakistan.</h3>
+<h3 align="center">A dedicated 🤖 Software Engineer @UBIT | Building Modern Web & AI Solutions from Pakistan.</h3>
 
 <img align="right" border-radius="50%" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
@@ -35,40 +35,30 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-## 🧩 Projects
-
 <table>
   <tr>
     <td valign="top" width="50%">
-      
       <h3>🔥 Latest Projects</h3>
-      
       📌 **Python Weather App**  
       ➜ [View Repo](#)  
-      
+      <br>
       📌 **Data Scraper**  
       ➜ [View Repo](#)  
-      
+      <br>
       📌 **Sentiment Analyzer**  
       ➜ [View Repo](#)
-      
     </td>
     <td valign="top" width="50%">
-      
       <h3>💻 Previous Projects</h3>
-      
       📌 **Next.js / React**  
       ➜ [Portfolio Website](#)  
       ➜ [Food Delivery Template](#)  
-      ➜ [Quiz App](#)
-      
-      <br>
-      
+      ➜ [Quiz App](#)  
+      <br><br>
       📌 **Core HTML/CSS/JS**  
       ➜ [Landing Page](#)  
       ➜ [Interactive Form](#)  
       ➜ [Vanilla JS Todo App](#)
-      
     </td>
   </tr>
 </table>
