@@ -15,19 +15,19 @@ I’m currently pursuing my **Bachelor’s in Software Engineering** at **UBIT �
 
 ---
 
-## 🚀 Governor’s Initiative — Emerging Tech Skills
+## 🚀 Governor’s Initiative - Emerging Tech Skills
 
 Actively enrolled in the **Governor Sindh’s IT Initiative**, I have completed **TypeScript**, **Next.js**, and **Python** modules and now moved on to **Generative AI**. I’m exploring **Web 3.0**, **Blockchain**, **Metaverse**, and other emerging technologies to stay ahead.
 
 ---
 
-## 💻 SMIT — MERN Stack Developer
+## 💻 SMIT - MERN Stack Developer
 
-I completed my **MERN Stack Development** journey at **Saylani Mass IT Training (SMIT)** in **January 2025** — mastering **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**, building portfolio projects and modern web apps.
+I completed my **MERN Stack Development** journey at **Saylani Mass IT Training (SMIT)** in **January 2025** - mastering **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**, building portfolio projects and modern web apps.
 
 ---
 
-## 🎥 PIAIC — Self-Learning with YouTube
+## 🎥 PIAIC - Self-Learning with YouTube
 
 I’m strengthening my skills further through **PIAIC** resources & **YouTube**, working on **Python**, **AI**, and modern development tools.
 
