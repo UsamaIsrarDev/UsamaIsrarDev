@@ -110,16 +110,16 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=usama1190&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=usamaisrardev&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usama1190&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaisrardev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama1190&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -127,5 +127,5 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 ## 🎯 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
