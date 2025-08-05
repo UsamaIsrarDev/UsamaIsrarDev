@@ -129,7 +129,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=usamaisrardev&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -151,14 +151,3 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
