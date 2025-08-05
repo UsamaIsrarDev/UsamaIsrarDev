@@ -52,6 +52,10 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
   - [Interactive Form](#)  
   - [Vanilla JS Todo App](#)
 
+Note: The following projects have been created purely for practice and skill enhancement purposes. All the code is hand-written by me, it is neither AI-generated nor copied from any source. While I sometimes use AI tools to seek guidance or stay updated with the latest technologies, every piece of logic and implementation is my own.
+
+To maintain the integrity and privacy of my work, the code is currently kept private. However, if you're genuinely interested in reviewing the code, feel free to reach out, I'd be happy to discuss it with you.
+
 ---
 
 ## 🗣️ Talk To Me About
@@ -129,6 +133,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
