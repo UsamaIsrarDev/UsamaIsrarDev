@@ -35,6 +35,32 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
+<table>
+  <thead>
+    <th>🔥 Ongoing Projects</th>
+    <th>🔥 Latest Projects</th>
+    <th>🔥 Previous Projects</th>
+  </thead>
+  <tr>
+    <td>
+      <ul>
+        📌 **Python Projects:**
+        <li>[Weather App](#)</li>
+      </ul>
+    </td>
+     <td>
+      <ul>
+        📌 **Python Projects:**
+        <li>[Weather App](#)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🔥 Ongoing Projects
+- 📌 **Python Projects:**  
+  - [Weather App](#)
+
 ### 🔥 Latest Projects
 - 📌 **Python Projects:**  
   - [Weather App](#)  
@@ -46,75 +72,6 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
   - [Portfolio Website](#)  
   - [Food Delivery Template](#)  
   - [Quiz App](#)
-
-- 📌 **Core HTML/CSS/JS:**  
-  - [Landing Page](#)  
-  - [Interactive Form](#)  
-  - [Vanilla JS Todo App](#)
- 
-## 🧩 Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td valign="top"><h3>🔧 Ongoing Projects</h3>
-
-      <ul id="ongoing-projects">
-        <li>🛠️ University Event Management System</li>
-        <li>🛠️ Forex Sentiment Scraper & Predictor (FYP)</li>
-        <li>🛠️ LeadGen AI Landing Page</li>
-      </ul>
-
-    </td>
-    
-    <td valign="top"><h3>🚀 Latest Live Projects</h3>
-
-      <ul id="latest-projects">
-        <li>✅ <a href="#">Foodies Spot</a> - Responsive UI, Multilingual</li>
-        <li>✅ <a href="#">Quiz Application</a> - Tech-based quizzes with Firebase</li>
-        <li>✅ <a href="#">Ultra-Digital Landing Page</a> - LeadGen Clone</li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- View More Buttons -->
-<button onclick="loadMore('ongoing')" style="margin: 10px;">🔄 View More Ongoing</button>
-<button onclick="loadMore('latest')" style="margin: 10px;">🔄 View More Latest</button>
-
-</div>
-
-<!-- JS-Like Script with HTML for GitHub README -->
-<!-- You can simulate this idea visually; GitHub won't support JS, but on your website/portfolio it will work -->
-
-<details>
-<summary>Click to view more projects</summary>
-
-<table>
-  <tr>
-    <td valign="top"><h3>🧩 More Ongoing Projects</h3>
-      <ul>
-        <li>🛠️ Job Portal Web App</li>
-        <li>🛠️ Real-Time Chat App (Socket.IO)</li>
-        <li>🛠️ AI Prompt Generator</li>
-      </ul>
-    </td>
-    
-    <td valign="top"><h3>🧩 More Latest Projects</h3>
-      <ul>
-        <li>✅ <a href="#">Landing Page HTML/CSS</a></li>
-        <li>✅ <a href="#">Interactive JS Form</a></li>
-        <li>✅ <a href="#">Vanilla JS Todo App</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</details>
 
 Note: The following projects have been created purely for practice and skill enhancement purposes. All the code is hand-written by me, it is neither AI-generated nor copied from any source. While I sometimes use AI tools to seek guidance or stay updated with the latest technologies, every piece of logic and implementation is my own.
 
@@ -197,6 +154,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
