@@ -35,22 +35,28 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-<table>
+<table width="100%">
   <thead>
-    <th>🔥 Ongoing Projects</th>
+    <th>🪄 Ongoing Projects</th>
     <th>🔥 Latest Projects</th>
-    <th>🔥 Previous Projects</th>
+    <th>🔮 Previous Projects</th>
   </thead>
   <tr>
     <td>
       <ul>
-        📌 **Python Projects:**
+        📌 Python Projects
         <li>[Weather App](#)</li>
       </ul>
     </td>
      <td>
       <ul>
-        📌 **Python Projects:**
+        📌 Python Projects
+        <li>[Weather App](#)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        📌 Python Projects
         <li>[Weather App](#)</li>
       </ul>
     </td>
@@ -154,6 +160,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
