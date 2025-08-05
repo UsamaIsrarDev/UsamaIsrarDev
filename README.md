@@ -37,47 +37,38 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 <table width="100%">
   <thead>
-    <th>🪄 Ongoing Projects</th>
-    <th>🔥 Latest Projects</th>
-    <th>🔮 Previous Projects</th>
+    <tr>
+      <th align="left">🪄 Ongoing Projects</th>
+      <th align="left">🔥 Latest Projects</th>
+      <th align="left">🔮 Previous Projects</th>
+    </tr>
   </thead>
-  <tr>
-    <td>
-      <ul>
-        📌 Python Projects
-        <li>[Weather App](#)</li>
-      </ul>
-    </td>
-     <td>
-      <ul>
-        📌 Python Projects
-        <li>[Weather App](#)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        📌 Python Projects
-        <li>[Weather App](#)</li>
-      </ul>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li>📌 University Event Management System</li>
+          <li>📌 Forex Market Sentiment Scraper (FYP)</li>
+          <li>📌 Real-time Chat App</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>✅ <a href="#">Foodies Spot (Live)</a></li>
+          <li>✅ <a href="#">Quiz App with Firebase</a></li>
+          <li>✅ <a href="#">Ultra-Digital Landing Page</a></li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>📌 HTML/CSS Landing Page</li>
+          <li>📌 JS Interactive Form</li>
+          <li>📌 Vanilla JS Todo App</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
-### 🔥 Ongoing Projects
-- 📌 **Python Projects:**  
-  - [Weather App](#)
-
-### 🔥 Latest Projects
-- 📌 **Python Projects:**  
-  - [Weather App](#)  
-  - [Data Scraper](#)  
-  - [Sentiment Analyzer](#)
-
-### 💻 Previous Projects
-- 📌 **Next.js / React:**  
-  - [Portfolio Website](#)  
-  - [Food Delivery Template](#)  
-  - [Quiz App](#)
 
 Note: The following projects have been created purely for practice and skill enhancement purposes. All the code is hand-written by me, it is neither AI-generated nor copied from any source. While I sometimes use AI tools to seek guidance or stay updated with the latest technologies, every piece of logic and implementation is my own.
 
@@ -160,6 +151,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
