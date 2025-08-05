@@ -35,7 +35,7 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse;" align="center">
   <thead>
     <tr>
       <th align="left" style="padding: 12px 10px;">🪄 Ongoing Projects</th>
@@ -151,6 +151,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
