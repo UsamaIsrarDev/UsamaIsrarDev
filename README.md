@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
 <h3 align="center">A dedicated 🤖 Software Engineer @UBIT & Building Modern Web & AI Solutions from Pakistan.</h3>
 
+<img align="center" width="100%" alt="Banner Image Of Usama" src="https://github.com/user-attachments/assets/b3e20b06-33fc-4b73-b039-25120f852fed
+">
+
 <img align="right" style="border-radius: 50%;" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
 
 <p align="left">
@@ -129,3 +132,4 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
