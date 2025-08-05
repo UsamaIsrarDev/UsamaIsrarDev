@@ -35,35 +35,35 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ## 🧩 Projects
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <thead>
     <tr>
-      <th align="left">🪄 Ongoing Projects</th>
-      <th align="left">🔥 Latest Projects</th>
-      <th align="left">🔮 Previous Projects</th>
+      <th align="left" style="padding: 12px 10px;">🪄 Ongoing Projects</th>
+      <th align="left" style="padding: 12px 10px;">🔥 Latest Projects</th>
+      <th align="left" style="padding: 12px 10px;">🔮 Previous Projects</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td valign="top" style="padding: 10px;">
         <ul>
-          <li>📌 University Event Management System</li>
-          <li>📌 Forex Market Sentiment Scraper (FYP)</li>
-          <li>📌 Real-time Chat App</li>
+          <li>University Event Management System</li>
+          <li>Forex Market Sentiment Scraper (FYP)</li>
+          <li>Real-time Chat App</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="top" style="padding: 10px;">
         <ul>
-          <li>✅ <a href="#">Foodies Spot (Live)</a></li>
-          <li>✅ <a href="#">Quiz App with Firebase</a></li>
-          <li>✅ <a href="#">Ultra-Digital Landing Page</a></li>
+          <li>Foodies Spot (Live)</li>
+          <li>Quiz App with Firebase</li>
+          <li>Ultra-Digital Landing Page</li>
         </ul>
       </td>
-      <td valign="top">
+      <td valign="top" style="padding: 10px;">
         <ul>
-          <li>📌 HTML/CSS Landing Page</li>
-          <li>📌 JS Interactive Form</li>
-          <li>📌 Vanilla JS Todo App</li>
+          <li>HTML/CSS Landing Page</li>
+          <li>JS Interactive Form</li>
+          <li>Vanilla JS Todo App</li>
         </ul>
       </td>
     </tr>
@@ -151,6 +151,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
