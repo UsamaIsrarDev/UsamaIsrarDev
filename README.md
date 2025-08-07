@@ -47,23 +47,23 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
     <tr>
       <td valign="top" style="padding: 10px;">
         <ul>
-          <li>University Event Management System</li>
-          <li>Forex Market Sentiment Scraper (FYP)</li>
-          <li>Real-time Chat App</li>
+          <li>⚒️ https://foodies-spot.vercel.app</li>
+          <li>⚒️ https://foodies-spot.vercel.app</li>
+          <li>⚒️ https://foodies-spot.vercel.app</li>
         </ul>
       </td>
       <td valign="top" style="padding: 10px;">
         <ul>
-          <li>Foodies Spot (Live)</li>
-          <li>Quiz App with Firebase</li>
-          <li>Ultra-Digital Landing Page</li>
+          <li>🔴 https://foodies-spot.vercel.app/</li>
+          <li>🔴 https://foodies-spot.vercel.app</li>
+          <li>🔴 https://foodies-spot.vercel.app</li>
         </ul>
       </td>
       <td valign="top" style="padding: 10px;">
         <ul>
-          <li>HTML/CSS Landing Page</li>
-          <li>JS Interactive Form</li>
-          <li>Vanilla JS Todo App</li>
+          <li>🔴 https://foodies-spot.vercel.app</li>
+          <li>🔴 https://foodies-spot.vercel.app</li>
+          <li>🔴 https://foodies-spot.vercel.app</li>
         </ul>
       </td>
     </tr>
@@ -151,3 +151,4 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
