@@ -47,23 +47,17 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
     <tr>
       <td valign="top" style="padding: 10px;">
         <ul>
-          <li>⚒️ https://foodies-spot.vercel.app</li>
-          <li>⚒️ https://foodies-spot.vercel.app</li>
-          <li>⚒️ https://foodies-spot.vercel.app</li>
+          <li>⚒️ https://sathrang.vercel.app (React + Vite)</li>
         </ul>
       </td>
       <td valign="top" style="padding: 10px;">
         <ul>
-          <li>🔴 https://foodies-spot.vercel.app/</li>
-          <li>🔴 https://foodies-spot.vercel.app</li>
-          <li>🔴 https://foodies-spot.vercel.app</li>
+          <li>🔴 https://forest-animals.streamlit.app (Python)</li>
         </ul>
       </td>
       <td valign="top" style="padding: 10px;">
         <ul>
-          <li>🔴 https://foodies-spot.vercel.app</li>
-          <li>🔴 https://foodies-spot.vercel.app</li>
-          <li>🔴 https://foodies-spot.vercel.app</li>
+          <li>📌 https://usamaplaceholder.vercel.app (React + Vite)</li>
         </ul>
       </td>
     </tr>
@@ -143,3 +137,4 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
