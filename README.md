@@ -58,6 +58,7 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
       <td valign="top" style="padding: 10px;">
         <ul>
           <li>📌 https://usamaplaceholder.vercel.app (React + Vite)</li>
+          <li>📌 https://ultra-digital.vercel.app/ (React + Vite)</li>
         </ul>
       </td>
     </tr>
@@ -137,4 +138,5 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
