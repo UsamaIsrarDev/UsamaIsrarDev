@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" />
 </p>
 
----
-
 <h3>🧩 Projects</h3>
 
 <p>⚒️ Ongoing Projects</p>
@@ -167,6 +165,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
