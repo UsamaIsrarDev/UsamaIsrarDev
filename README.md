@@ -9,6 +9,28 @@
 
 ---
 
+## 🧩 Projects
+
+<p>⚒️ Ongoing Projects</p>
+
+<ul>
+  <li>📌 https://sathrang.vercel.app (React + Vite)</li>
+</ul>
+
+<p>🔥 Latest Projects</p>
+
+<ul>
+  <li>🔴 https://forest-animals.streamlit.app (Python)</li>
+</ul>
+
+<p>🔮 Previous Projects</p>
+
+<ul>
+  <li>⏮ https://ultra-digital.vercel.app/ (React + Vite)</li>
+</ul>        
+          
+---     
+
 ## 📚 My Software Engineering Journey (UBIT)
 
 I’m currently pursuing my **Bachelor’s in Software Engineering** at **UBIT - University of Karachi**, now in my **8th and final semester**. I’m applying my skills through real-world projects and advanced modules to get industry-ready.
@@ -33,37 +55,6 @@ I’m strengthening my skills further through **PIAIC** resources & **YouTube**,
 
 ---
 
-## 🧩 Projects
-
-<table width="100%" style="border-collapse: collapse;" align="center">
-  <thead>
-    <tr>
-      <th align="left" style="padding: 12px 10px;">🪄 Ongoing Projects</th>
-      <th align="left" style="padding: 12px 10px;">🔥 Latest Projects</th>
-      <th align="left" style="padding: 12px 10px;">🔮 Previous Projects</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" style="padding: 10px;">
-        <ul>
-          <li>⚒️ https://sathrang.vercel.app (React + Vite)</li>
-        </ul>
-      </td>
-      <td valign="top" style="padding: 10px;">
-        <ul>
-          <li>🔴 https://forest-animals.streamlit.app (Python)</li>
-        </ul>
-      </td>
-      <td valign="top" style="padding: 10px;">
-        <ul>
-          <li>📌 https://usamaplaceholder.vercel.app (React + Vite)</li>
-          <li>📌 https://ultra-digital.vercel.app/ (React + Vite)</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 Note: The following projects have been created purely for practice and skill enhancement purposes. All the code is hand-written by me, it is neither AI-generated nor copied from any source. While I sometimes use AI tools to seek guidance or stay updated with the latest technologies, every piece of logic and implementation is my own.
 
@@ -176,6 +167,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
