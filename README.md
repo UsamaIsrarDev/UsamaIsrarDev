@@ -27,50 +27,36 @@
   <li>⏮ https://ultra-digital.vercel.app/ (React + Vite)</li>
 </ul>        
           
----     
+<h2>✨ Career</h2>
 
-## 📚 My Software Engineering Journey (UBIT)
+<h3>📚 My Software Engineering Journey (UBIT)</h3>
 
-I’m currently pursuing my **Bachelor’s in Software Engineering** at **UBIT - University of Karachi**, now in my **8th and final semester**. I’m applying my skills through real-world projects and advanced modules to get industry-ready.
-
----
+I’m currently pursuing my <strong>Bachelor’s in Software Engineering</strong> at **UBIT - University of Karachi**, now in my **8th and final semester**. I’m applying my skills through real-world projects and advanced modules to get industry-ready.
 
 ## 🚀 Governor’s Initiative - Emerging Tech Skills
 
 Actively enrolled in the **Governor Sindh’s IT Initiative**, I have completed **TypeScript**, **Next.js**, and **Python** modules and now moved on to **Generative AI**. I’m exploring **Web 3.0**, **Blockchain**, **Metaverse**, and other emerging technologies to stay ahead.
 
----
-
 ## 💻 SMIT - MERN Stack Developer
 
 I completed my **MERN Stack Development** journey at **Saylani Mass IT Training (SMIT)** in **January 2025** - mastering **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**, building portfolio projects and modern web apps.
 
----
-
 ## 🎥 PIAIC - Self-Learning with YouTube
 
-I’m strengthening my skills further through **PIAIC** resources & **YouTube**, working on **Python**, **AI**, and modern development tools.
-
----
+I’m strengthening my skills further through **PIAIC** resources & **YouTube**, working on **Python**, **AI**, and modern development tools
 
 
 Note: The following projects have been created purely for practice and skill enhancement purposes. All the code is hand-written by me, it is neither AI-generated nor copied from any source. While I sometimes use AI tools to seek guidance or stay updated with the latest technologies, every piece of logic and implementation is my own.
 
 To maintain the integrity and privacy of my work, the code is currently kept private. However, if you're genuinely interested in reviewing the code, feel free to reach out, I'd be happy to discuss it with you.
 
----
-
 ## 🗣️ Talk To Me About
 
 💬 I love working with: **HTML5**, **CSS3**, **Bootstrap**, **JavaScript (ES6+)**, **TypeScript**, **React.js**, **Next.js**, **Angular**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **Python**, **Tailwind CSS**, **Generative AI**, **Web 3.0**, **Blockchain**, **Metaverse**, and **modern APIs**.
 
----
-
 ## 🎯 Future Plans
 
 As a passionate **Software Engineer**, I combine academic knowledge with real-world projects to build scalable, user-centric solutions for businesses. My goal is to create impactful products in **AI**, **Blockchain**, **Generative AI**, and **modern web development**, while learning and growing every day.
-
----
 
 ## 🌍 Let’s Connect
 
@@ -91,8 +77,6 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
     <img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram">
   </a>
 </div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -146,9 +130,6 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub Pages" width="40" height="40"/>
 </p>
 
-
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -165,13 +146,3 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
-
-
-
-
-
-
-
-
-
-
