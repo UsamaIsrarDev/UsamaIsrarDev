@@ -31,34 +31,34 @@
 
 <h3>📚 My Software Engineering Journey (UBIT)</h3>
 
-I’m currently pursuing my <strong>Bachelor’s in Software Engineering</strong> at **UBIT - University of Karachi**, now in my **8th and final semester**. I’m applying my skills through real-world projects and advanced modules to get industry-ready.
+I’m currently pursuing my <strong>Bachelor’s in Software Engineering</strong> at <strong>UBIT - University of Karachi</strong>, now in my <strong>8th and final semester</strong>. I’m applying my skills through real-world projects and advanced modules to get industry-ready.
 
-## 🚀 Governor’s Initiative - Emerging Tech Skills
+<h3>🚀 Governor’s Initiative - Emerging Tech Skills</h3>
 
-Actively enrolled in the **Governor Sindh’s IT Initiative**, I have completed **TypeScript**, **Next.js**, and **Python** modules and now moved on to **Generative AI**. I’m exploring **Web 3.0**, **Blockchain**, **Metaverse**, and other emerging technologies to stay ahead.
+Actively enrolled in the <strong>Governor Sindh’s IT Initiative</strong>, I have completed <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>Python</strong> modules and now moved on to <strong>Generative AI</strong>. I’m exploring <strong>Web 3.0</strong>, <strong>Blockchain</strong>, <strong>Metaverse</strong>, and other emerging technologies to stay ahead.
 
-## 💻 SMIT - MERN Stack Developer
+<h3>💻 SMIT - MERN Stack Developer</h3>
 
-I completed my **MERN Stack Development** journey at **Saylani Mass IT Training (SMIT)** in **January 2025** - mastering **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**, building portfolio projects and modern web apps.
+I completed my <strong>MERN Stack Development</strong> journey at <strong>Saylani Mass IT Training (SMIT)</strong> in <strong>January 2025</strong> - mastering <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>Node.js</strong>, building portfolio projects and modern web apps.
 
-## 🎥 PIAIC - Self-Learning with YouTube
+<h3>🎥 PIAIC - Self-Learning with YouTube</h3>
 
-I’m strengthening my skills further through **PIAIC** resources & **YouTube**, working on **Python**, **AI**, and modern development tools
+I’m strengthening my skills further through <strong>PIAIC</strong> resources & <strong>YouTube</strong>, working on <strong>Python</strong>, <strong>AI</strong>, and modern development tools
 
 
 Note: The following projects have been created purely for practice and skill enhancement purposes. All the code is hand-written by me, it is neither AI-generated nor copied from any source. While I sometimes use AI tools to seek guidance or stay updated with the latest technologies, every piece of logic and implementation is my own.
 
 To maintain the integrity and privacy of my work, the code is currently kept private. However, if you're genuinely interested in reviewing the code, feel free to reach out, I'd be happy to discuss it with you.
 
-## 🗣️ Talk To Me About
+<h3>🗣️ Talk To Me About</h3>
 
-💬 I love working with: **HTML5**, **CSS3**, **Bootstrap**, **JavaScript (ES6+)**, **TypeScript**, **React.js**, **Next.js**, **Angular**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **Python**, **Tailwind CSS**, **Generative AI**, **Web 3.0**, **Blockchain**, **Metaverse**, and **modern APIs**.
+💬 I love working with: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Bootstrap</strong>, <strong>JavaScript (ES6+)</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Angular</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, <strong>MySQL</strong>, <strong>Python</strong>, <strong>Tailwind CSS</strong>, <strong>Generative AI</strong>, <strong>Web 3.0</strong>, <strong>Blockchain</strong>, <strong>Metaverse</strong>, and <strong>modern APIs</strong>.
 
-## 🎯 Future Plans
+<h3>🎯 Future Plans</h3>
 
-As a passionate **Software Engineer**, I combine academic knowledge with real-world projects to build scalable, user-centric solutions for businesses. My goal is to create impactful products in **AI**, **Blockchain**, **Generative AI**, and **modern web development**, while learning and growing every day.
+As a passionate <strong>Software Engineer</strong>, I combine academic knowledge with real-world projects to build scalable, user-centric solutions for businesses. My goal is to create impactful products in <strong>AI</strong>, <strong>Blockchain</strong>, <strong>Generative AI</strong>, and <strong>modern web development</strong>, while learning and growing every day.
 
-## 🌍 Let’s Connect
+<h3>🌍 Let’s Connect</h3>
 
 <div align="center">
   <a href="https://usamaisrar1190-portfolio-website.netlify.app/" target="_blank">
@@ -78,7 +78,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
   </a>
 </div>
 
-## 🛠️ Tech Stack & Tools
+<h3>🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
   <!-- Core Web -->
@@ -130,7 +130,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub Pages" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <table align="center">
   <tr>
@@ -146,3 +146,4 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
