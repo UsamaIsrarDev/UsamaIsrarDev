@@ -9,7 +9,7 @@
 
 ---
 
-<h2>🧩 Projects</h2>
+<h2 width='50%'>🧩 Projects</h2>
 
 <p>⚒️ Ongoing Projects</p>
 
@@ -167,6 +167,7 @@ As a passionate **Software Engineer**, I combine academic knowledge with real-wo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
