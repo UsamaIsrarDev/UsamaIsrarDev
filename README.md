@@ -7,24 +7,26 @@
   <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" />
 </p>
 
-<h3>🧩 Projects</h3>
-
-<p>⚒️ Ongoing Projects</p>
+<h3>🧩 Projects</h3
 
 <ul>
-  <li>https://sathrang.vercel.app (React + Vite)</li>
-</ul>
+  <li>⚒️ Ongoing Projects</li>
 
-<p>🔥 Latest Projects</p>
+  <ul>
+    <li>https://sathrang.vercel.app (React + Vite)</li>
+  </ul>
+  
+  <li>🔥 Latest Projects</li>
 
-<ul>
-  <li>https://forest-animals.streamlit.app (Python)</li>
-</ul>
+  <ul>
+    <li>https://forest-animals.streamlit.app (Python)</li>
+  </ul>
+  
+  <li>⏮ Previous Projects</li>
 
-<p>⏮ Previous Projects</p>
-
-<ul>
-  <li>https://ultra-digital.vercel.app/ (React + Vite)</li>
+  <ul>
+    <li>https://ultra-digital.vercel.app/ (React + Vite)</li>
+  </ul>
 </ul>        
           
 <h2>✨ Career</h2>
@@ -146,5 +148,6 @@ As a passionate <strong>Software Engineer</strong>, I combine academic knowledge
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
