@@ -12,19 +12,19 @@
 <p>⚒️ Ongoing Projects</p>
 
 <ul>
-  <li>📌 https://sathrang.vercel.app (React + Vite)</li>
+  <li>https://sathrang.vercel.app (React + Vite)</li>
 </ul>
 
 <p>🔥 Latest Projects</p>
 
 <ul>
-  <li>🔴 https://forest-animals.streamlit.app (Python)</li>
+  <li>https://forest-animals.streamlit.app (Python)</li>
 </ul>
 
-<p>🔮 Previous Projects</p>
+<p>⏮ Previous Projects</p>
 
 <ul>
-  <li>⏮ https://ultra-digital.vercel.app/ (React + Vite)</li>
+  <li>https://ultra-digital.vercel.app/ (React + Vite)</li>
 </ul>        
           
 <h2>✨ Career</h2>
@@ -146,4 +146,5 @@ As a passionate <strong>Software Engineer</strong>, I combine academic knowledge
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
