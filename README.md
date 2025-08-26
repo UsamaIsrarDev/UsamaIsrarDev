@@ -24,8 +24,6 @@
 <ul>
   <li>https://ultra-digital.vercel.app/ (React + Vite)</li>
 </ul>
-          
-<h3>Career</h3>
 
 <h3>My Software Engineering Journey (UBIT)</h3>
 
@@ -144,4 +142,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
