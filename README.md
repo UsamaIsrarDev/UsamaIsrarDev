@@ -7,42 +7,42 @@
   <img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" />
 </p>
 
-<h3>🧩 Projects</h3
+<h3>Projects</h3
 
-<strong>⚒️ Ongoing Projects</strong>
+<strong>Ongoing Projects</strong>
 
   <ul>
     <li>https://sathrang.vercel.app (React + Vite)</li>
   </ul>
 
-<strong>🔥 Latest Projects</strong>
+<strong>Latest Projects</strong>
 
   <ul>
     <li>https://forest-animals.streamlit.app (Python)</li>
   </ul>
 
-<strong>⏮ Previous Projects</strong>
+<strong>Previous Projects</strong>
 
   <ul>
     <li>https://ultra-digital.vercel.app/ (React + Vite)</li>
   </ul>
 </ul>        
           
-<h2>✨ Career</h2>
+<h2>Career</h2>
 
-<h3>📚 My Software Engineering Journey (UBIT)</h3>
+<h3>My Software Engineering Journey (UBIT)</h3>
 
 I’m currently pursuing my <strong>Bachelor’s in Software Engineering</strong> at <strong>UBIT - University of Karachi</strong>, now in my <strong>8th and final semester</strong>. I’m applying my skills through real-world projects and advanced modules to get industry-ready.
 
-<h3>🚀 Governor’s Initiative - Emerging Tech Skills</h3>
+<h3>Governor’s Initiative - Emerging Tech Skills</h3>
 
 Actively enrolled in the <strong>Governor Sindh’s IT Initiative</strong>, I have completed <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>Python</strong> modules and now moved on to <strong>Generative AI</strong>. I’m exploring <strong>Web 3.0</strong>, <strong>Blockchain</strong>, <strong>Metaverse</strong>, and other emerging technologies to stay ahead.
 
-<h3>💻 SMIT - MERN Stack Developer</h3>
+<h3>SMIT - MERN Stack Developer</h3>
 
 I completed my <strong>MERN Stack Development</strong> journey at <strong>Saylani Mass IT Training (SMIT)</strong> in <strong>January 2025</strong> - mastering <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>Node.js</strong>, building portfolio projects and modern web apps.
 
-<h3>🎥 PIAIC - Self-Learning with YouTube</h3>
+<h3>PIAIC - Self-Learning with YouTube</h3>
 
 I’m strengthening my skills further through <strong>PIAIC</strong> resources & <strong>YouTube</strong>, working on <strong>Python</strong>, <strong>AI</strong>, and modern development tools
 
@@ -51,15 +51,15 @@ Note: The following projects have been created purely for practice and skill enh
 
 To maintain the integrity and privacy of my work, the code is currently kept private. However, if you're genuinely interested in reviewing the code, feel free to reach out, I'd be happy to discuss it with you.
 
-<h3>🗣️ Talk To Me About</h3>
+<h3>Talk To Me About</h3>
 
 💬 I love working with: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Bootstrap</strong>, <strong>JavaScript (ES6+)</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Angular</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, <strong>MySQL</strong>, <strong>Python</strong>, <strong>Tailwind CSS</strong>, <strong>Generative AI</strong>, <strong>Web 3.0</strong>, <strong>Blockchain</strong>, <strong>Metaverse</strong>, and <strong>modern APIs</strong>.
 
-<h3>🎯 Future Plans</h3>
+<h3>Future Plans</h3>
 
 As a passionate <strong>Software Engineer</strong>, I combine academic knowledge with real-world projects to build scalable, user-centric solutions for businesses. My goal is to create impactful products in <strong>AI</strong>, <strong>Blockchain</strong>, <strong>Generative AI</strong>, and <strong>modern web development</strong>, while learning and growing every day.
 
-<h3>🌍 Let’s Connect</h3>
+<h3>Let’s Connect</h3>
 
 <div align="center">
   <a href="https://usamaisrar1190-portfolio-website.netlify.app/" target="_blank">
@@ -79,7 +79,7 @@ As a passionate <strong>Software Engineer</strong>, I combine academic knowledge
   </a>
 </div>
 
-<h3>🛠️ Tech Stack & Tools</h3>
+<h3>Tech Stack & Tools</h3>
 
 <p align="center">
   <!-- Core Web -->
@@ -131,7 +131,7 @@ As a passionate <strong>Software Engineer</strong>, I combine academic knowledge
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub Pages" width="40" height="40"/>
 </p>
 
-<h3>📊 GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 
 <table align="center">
   <tr>
@@ -147,8 +147,3 @@ As a passionate <strong>Software Engineer</strong>, I combine academic knowledge
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
-
-
-
-
-
