@@ -19,12 +19,6 @@
   <li>https://forest-animals.streamlit.app (Python)</li>
 </ul>
 
-<p>Previous Projects</p>
-
-<ul>
-  <li>https://ultra-digital.vercel.app/ (React + Vite)</li>
-</ul>
-
 <h3 align="center">🌐 Let’s Connect</h3>
 
 <div align="center">
@@ -181,6 +175,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
