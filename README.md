@@ -19,7 +19,7 @@
   <li>https://forest-animals.streamlit.app (Python)</li>
 </ul>
 
-<h3 align="center">🌐 Let’s Connect</h3>
+<h3>🌐 Let’s Connect</h3>
 
 <div align="center">
   <!-- Portfolio -->
@@ -175,6 +175,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
