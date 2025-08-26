@@ -9,20 +9,19 @@
 
 <h3>🧩 Projects</h3
 
-<ul>
-  <li>⚒️ Ongoing Projects</li>
+* ⚒️ Ongoing Projects
 
   <ul>
     <li>https://sathrang.vercel.app (React + Vite)</li>
   </ul>
   
-  <li>🔥 Latest Projects</li>
+* 🔥 Latest Projects
 
   <ul>
     <li>https://forest-animals.streamlit.app (Python)</li>
   </ul>
   
-  <li>⏮ Previous Projects</li>
+* ⏮ Previous Projects
 
   <ul>
     <li>https://ultra-digital.vercel.app/ (React + Vite)</li>
@@ -148,6 +147,7 @@ As a passionate <strong>Software Engineer</strong>, I combine academic knowledge
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
