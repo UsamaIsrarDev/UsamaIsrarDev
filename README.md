@@ -14,8 +14,14 @@
     <p>https://sathrang.vercel.app </p>
     <p><strong>Duration :</strong> Aug 11, 2025 | <strong>Tech :</strong> (React + Vite)</p>
   </li>
-  <li>https://forest-animals.streamlit.app (Python)</li>
-  <li>https://forest-animals.streamlit.app (Python)</li>
+  <li>
+    <p>https://sathrang.vercel.app </p>
+    <p><strong>Duration :</strong> Aug 11, 2025 | <strong>Tech :</strong> (React + Vite)</p>
+  </li>
+  <li>
+    <p>https://sathrang.vercel.app </p>
+    <p><strong>Duration :</strong> Aug 11, 2025 | <strong>Tech :</strong> (React + Vite)</p>
+  </li>
 </ul>
 
 <h3>🌐 Let’s Connect</h3>
@@ -174,6 +180,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
