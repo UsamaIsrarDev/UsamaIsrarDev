@@ -7,8 +7,6 @@
 
 <h3>Projects</h3
 
-<p>Top 3 projects</p>
-
 <ul>
   <li>
     <p>https://sathrang.vercel.app </p>
@@ -180,6 +178,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
