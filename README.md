@@ -5,14 +5,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" /></p>
 
-<h3>Projects</h3
-
-<ul>
-  <li>https://sathrang.vercel.app | <strong>Duration :</strong> Aug 11, 2025 | <strong>Tech :</strong> (React + Vite)</li>
-  <li>https://sathrang.vercel.app | <strong>Duration :</strong> Aug 11, 2025 | <strong>Tech :</strong> (React + Vite)</li>
-  <li>https://sathrang.vercel.app | <strong>Duration :</strong> Aug 11, 2025 | <strong>Tech :</strong> (React + Vite)</li>
-</ul>
-
 <h3>🌐 Let’s Connect</h3>
 
 <div align="center">
@@ -140,6 +132,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
