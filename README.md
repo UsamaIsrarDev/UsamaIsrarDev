@@ -64,6 +64,41 @@
   </a>
 </div>
 
+<h2>Tech Stack</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+alt="CSS"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+alt="Sass"/>
+<img src="https://img.shields.io/badge/Recoil-FFFFFF?style=for-the-badge&logo=recoil&logoColor=black"
+alt="Recoil"/>
+<img src="https://img.shields.io/badge/Zustand-43853D?style=for-the-badge&logo=react&logoColor=white"
+alt="Zustand"/>
+<img src="https://img.shields.io/badge/React%20Query-000000?style=for-the-badge&logo=react-query&logoColor=white"
+alt="React Query"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+alt="Jest"/>
+<img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"
+alt="Chakra UI"/>
+<img src="https://img.shields.io/badge/PrimeReact-1C2755?style=for-the-badge&logo=react&logoColor=white"
+alt="PrimeReact"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white"
+alt="Framer Motion"/>
+</div>
+
 <h3>GitHub Stats</h3>
 
 <table align="center">
@@ -80,6 +115,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
